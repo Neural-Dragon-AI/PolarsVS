@@ -1,0 +1,4 @@
+ipykernel
+polars-ds
+datasets
+polars-distance
